@@ -8,4 +8,4 @@
  # @Description: 有任何问题请与我联系
 ### 
 wget https://ftp.mozilla.org/pub/thunderbird/releases/102.12.0/source/thunderbird-102.12.0.source.tar.xz
-
+tar xvf thunderbird-102.12.0.source.tar.xz
