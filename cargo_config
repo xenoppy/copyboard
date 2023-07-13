@@ -1,0 +1,8 @@
+[source.crates-io]
+
+replace-with = 'loongnix'
+
+
+[source.loongnix]
+
+registry = "https://crates.loongnix.cn/crates.io-index"
